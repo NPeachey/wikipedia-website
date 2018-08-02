@@ -1,0 +1,21 @@
+.left-panel {
+  align-content: left;
+}
+
+li {
+  list-style-type: none;
+  text-align: left;
+}
+
+header {
+  margin-top: 10px;
+  border-bottom: solid 1px;
+  text-align: left;
+}
+ .well img {
+   width: 150px;
+ }
+
+ .role{
+   align-content: right;
+ }
